@@ -1,3 +1,22 @@
+case 'menu ' : {
+
+GojoMdNx.sendMessage(m.chat, { image:https://i.ibb.co/6Ypf179/20220602-094206.png , caption : `┏━❬νιнαηgα м∂🧚❭
+    
+   *Hello 👋..*
+
+       I am alive now 😼
+
+*┃Owner 🎩:* ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ
+
+*┃Version 🧚:* 1.0.1
+
+*┃⌛Runtime :* ${runtime(process.uptime())}
+
+┗━━━━━━━━━❊`  }, { quoted: m })
+
+}
+
+
 ┏━❬νιнαηgα м∂🧚❭
     
    *⬇️ YOUTUBE DOWNLODER*
