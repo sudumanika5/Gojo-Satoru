@@ -2090,17 +2090,17 @@ break
                     image: { url: anu.thumbnail },
                     caption: `┏━❬νιнαηgα м∂🧚❭
 
-⬇️ YOUTUBE DOWNLODER
+   *⬇️ YOUTUBE DOWNLODER*
 
-┃💎Title : ${anu.title}
+*┃💎Title :* ${anu.title}
 
-┃⏳Duration : ${anu.timestamp}
+*┃⏳Duration :* ${anu.timestamp}
 
-┃✍️Author : ${anu.author.name}
+*┃✍️Author :* ${anu.author.name}
 
-┃🔗Url : ${anu.url}
+*┃🔗Url :* ${anu.url}
 
-┃⌛Runtime : ${runtime(process.uptime())}
+*┃⌛Runtime :* ${runtime(process.uptime())}
 
 ┗━━━━━━━━━❊`,
                     footer: GojoMdNx.user.name,
