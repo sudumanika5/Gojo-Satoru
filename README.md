@@ -16,6 +16,24 @@
 
 
 
+┏━❬νιнαηgα м∂🧚❭
+    
+
+   *Hello 👋..*
+
+      ```I am alive now 😼```
+
+
+*┃Owner 🎩:* ```ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ```
+
+
+*┃Version 🧚:* ```1.0.1```
+
+*┃⌛Runtime :* ${runtime(process.uptime())}
+
+┗━━━━━━━━━❊
+
+
 <p align="center">
 <img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
 </p>
