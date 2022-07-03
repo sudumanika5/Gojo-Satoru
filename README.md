@@ -1,3 +1,6 @@
+```
+
+
 case 'menu ' : {
 
 GojoMdNx.sendMessage(m.chat, { image:https://i.ibb.co/6Ypf179/20220602-094206.png , caption : `┏━❬νιнαηgα м∂🧚❭
