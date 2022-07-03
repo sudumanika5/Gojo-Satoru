@@ -3391,6 +3391,8 @@ Hello 👋..
 
 ┃Version 🧚: 1.0.1
 
+┃Group Link: https://chat.whatsapp.com/HXVzUWVrbQ938Mn0R1BE7Q
+
 ┃⌛Runtime : ${runtime(process.uptime())}
 
 ┗━━━━━━━━━❊`,
@@ -3445,6 +3447,8 @@ Hello 👋..
 ┃Owner 🎩: ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ
 
 ┃Version 🧚: 1.0.1
+
+┃Group Link: https://chat.whatsapp.com/HXVzUWVrbQ938Mn0R1BE7Q
 
 ┃⌛Runtime : ${runtime(process.uptime())}
 
